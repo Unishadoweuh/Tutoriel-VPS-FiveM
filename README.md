@@ -1,6 +1,6 @@
 # Mettre à jour sa machine
 
-apt update && apt full-upgrade -y
+`apt update && apt full-upgrade -y`
 
 # Créer le répertoire du serveur
 
